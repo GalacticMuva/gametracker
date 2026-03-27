@@ -52,7 +52,7 @@ The backend is powered by Supabase with the following games table structure:
 
 🚀 Local Setup Instructions
 Clone the Repo
-    git clone <your-repository-url>
+    git clone <>
     cd gametracker
 
 
@@ -71,7 +71,7 @@ Used for the build process and modern styling:
 
     tailwindcss: The CSS framework used for the UI.
 
-        @tailwindcss/vite: The official Vite plugin for Tailwind v4 integration.
+        @import "tailwindcss": The official Vite plugin for Tailwind v4 integration.
 
     vite: The build tool used to initialize and run the project.
 
