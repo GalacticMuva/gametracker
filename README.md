@@ -51,9 +51,10 @@ The backend is powered by Supabase with the following games table structure:
 
 
 🚀 Local Setup Instructions
-Clone the Repo
-    git clone https://github.com/GalacticMuva/gametracker.git
-    cd gametracker
+		
+		Clone the Repo
+		    git clone https://github.com/GalacticMuva/gametracker.git
+		    cd gametracker
 
 
 📦 Installation & Dependencies
